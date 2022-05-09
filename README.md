@@ -25,4 +25,6 @@ THEN the password is either displayed in an alert or written to the page
 Deployed Application: https://adryq.github.io/Password-Generator/
 
 
+[![Screenshot-of-Password-Generator.png](https://i.postimg.cc/xd2wLfKK/Screenshot-of-Password-Generator.png)](https://postimg.cc/cvFkSNkH)
+
 
